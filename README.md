@@ -1,6 +1,6 @@
 # Rekonstruksi Sistem Audio/MIDI
 
-- Sound Chip : YM2612, OPL3
+- Sound Chip : YM2612, OPL3, SPU2?
 - MIDI synthesizer (e.g., Roland MT-32, Sound Canvas)
 - Audio DSP pada sistem embedded
 
@@ -15,3 +15,6 @@
 - https://www.mips.com/products/architectures/
 - https://www.smspower.org/Development/YM2612
 - https://en.wikipedia.org/wiki/Yamaha_YM2612
+- https://www.psdevwiki.com/ps2/SPU2
+- https://psi-rockin.github.io/ps2tek/
+- https://problemkaputt.de/psx-spx.htm
