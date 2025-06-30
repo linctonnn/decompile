@@ -14,4 +14,4 @@
 ## Referensi
 - https://www.mips.com/products/architectures/
 - https://www.smspower.org/Development/YM2612
-- https://www.midi.org/specifications
+- https://en.wikipedia.org/wiki/Yamaha_YM2612
